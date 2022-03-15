@@ -1,5 +1,5 @@
 # Data-Analytics
-https://myfirstdrone.com/=uri 
+https://myfirstdrone.com/=url
 
 What is a drone?
 A drone is an unmanned aircraft. Drones are more formally known as unmanned aerial vehicles (UAVs) or unmanned aircraft systems. Essentially, a drone is a flying robot that can be remotely controlled or fly autonomously using software-controlled flight plans in its embedded systems, that work in conjunction with onboard sensors and a global positioning system (GPS).
